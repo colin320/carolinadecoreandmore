@@ -17,14 +17,13 @@ Then open http://localhost:8000.
 | File | Page |
 | --- | --- |
 | `index.html` | Home: hero, hours, categories, featured finds, monthly market, consign and booth calls to action, map |
-| `shop.html` | New Arrivals photo gallery |
 | `consign.html` | Consign With Us: steps, terms, inquiry form |
 | `rent-a-booth.html` | Rent a Booth: benefits, pricing table, application form |
 | `events.html` | Monthly Market: details, dates, vendor signup |
 | `artists.html` | Meet Our Artists |
 | `visit.html` | Visit & Contact: story, hours, map, FAQ, contact form |
 
-Shared styles live in `assets/css/styles.css` and scripts in `assets/js/main.js`. The header and footer are repeated in each page, so a change there needs to be made in all seven files.
+Shared styles live in `assets/css/styles.css` and scripts in `assets/js/main.js`. The header and footer are repeated in each page, so a change there needs to be made in all six files.
 
 ## Brand
 
@@ -48,7 +47,6 @@ Still needed:
 - [ ] Owner story for the Visit page
 - [ ] Hold and delivery policies (FAQ)
 - [ ] Artist profiles: written okay, bio, photo and links from each artist (starting with Zeke, whose signature is on the surfboards)
-- [ ] Captions and prices for gallery items; whether the cornhole sets are for sale
 - [ ] Facebook and Instagram links (footer icons currently point to `#`)
 - [ ] More photos: interior, furniture, jewelry, market days
 
